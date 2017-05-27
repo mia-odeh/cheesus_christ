@@ -1,24 +1,34 @@
+@font-face {
+	font-family: myFirstFont;
+	src: url("fonts/Chalk-hand-lettering-shaded_demo.ttf");
+}
+
 body {
- 	background-color: white;
+ 	background-image: url("images/blackboard.jpg");
  }
 
 h1 {
+	size: 400px;
 	text-align: center;
+	color: white;
+	font-family: myFirstFont;
 }
 
 h2 {
 	text-align: center;
+	color: white;
+	font-family: myFirstFont;
 }
 
 img {
-	width: 100%;
+	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
 }
 
 .cheese_container {
-	width: 80%
+	width: 20%
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 35px;
