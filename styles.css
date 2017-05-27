@@ -1,0 +1,30 @@
+body {
+ 	background-color: white;
+ }
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+img {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.cheese_container {
+	width: 80%
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 35px;
+}
+
+.cheese_entry {
+	width: 33%;
+	float: left;
+}
