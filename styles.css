@@ -13,16 +13,16 @@
  }
 
 h1 {
-	size: 400px;
+	size: 500px;
 	text-align: center;
 	margin-top: 100px;
-	color: white;
+	color: #f6f990;
 	font-family: myFirstFont;
 }
 
 h2 {
 	text-align: center;
-	color: white;
+	color: #f6f990;
 	margin-bottom: 50px;
 	font-family: myFirstFont;
 }
@@ -44,7 +44,8 @@ img {
 	width: 50%;
 	margin-right: auto;
 	margin-left: auto;
-	margin-top: 35px;
+	margin-top: 300px;
+	margin-bottom: 1000px;
 }
 
 .cheese_entry {
