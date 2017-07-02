@@ -13,7 +13,7 @@
  }
 
 h1 {
-	size: 500px;
+	size: 100px;
 	text-align: center;
 	margin-top: 100px;
 	color: #f6f990;
@@ -40,13 +40,22 @@ img {
 	margin-bottom: 20px;
 }
 
+.cheese_container1 {
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 50px;
+	margin-bottom: 500px;
+}
+
 .cheese_container {
 	width: 50%;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 300px;
-	margin-bottom: 1000px;
+	margin-bottom: 50px;
 }
+
 
 .cheese_entry {
 	background-color: rgba(255,255,255,0.9);
